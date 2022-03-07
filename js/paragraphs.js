@@ -1,0 +1,5 @@
+const paragraphs = [
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores omnis rem deleniti veritatis facilis, distinctio illum. Laborum illo quisquam, modi incidunt odio nihil veritatis molestias iure corrupti neque vitae at.",
+    "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste, quibusdam.",
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum officia consequuntur numquam ad reprehenderit velit quod distinctio odio quos sequi id dolores aliquid, nesciunt ducimus illo repellat possimus, atque eveniet esse sed. Beatae minima sequi at esse veniam explicabo adipisci sunt ullam distinctio! Laborum modi repellendus autem? Saepe dignissimos ipsum ducimus quibusdam necessitatibus sequi aperiam consequuntur tempore hic magni, libero aliquam neque ad, quis eligendi! Optio amet accusantium saepe in."
+];
