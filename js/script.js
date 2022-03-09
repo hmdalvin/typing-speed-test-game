@@ -4,7 +4,7 @@ const typingText = document.querySelector(".typing-text p"),
     mistakeTag = document.querySelector(".mistake span"),
     wpmTag = document.querySelector(".wpm span"),
     cpmTag = document.querySelector(".cpm span"),
-    tryAgainBtn = document.querySelector("button")
+    tryAgainBtn = document.querySelector("button");
 
 
 let timer,
